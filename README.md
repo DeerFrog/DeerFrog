@@ -23,7 +23,7 @@ Tem alguma dúvida ou quer saber mais sobre nós? Adoramos ouvir a comunidade e 
 - **Email**: contact@deerfrog.com
 
 ## Licença
-Os jogos e projetos da DeerFrog Studio não são open source. Todos os direitos estão reservados e o uso do código ou dos ativos visuais é restrito. Para mais informações, consulte o arquivo [LICENSE](LICENSE).
+Os jogos e projetos da DeerFrog Studios não são open source. Todos os direitos estão reservados e o uso do código ou dos ativos visuais é restrito.
 
 ---
 
